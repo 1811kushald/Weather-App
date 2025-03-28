@@ -2,7 +2,7 @@
 
 A sleek, user-friendly weather application built with **React.js** to provide real-time weather updates for locations worldwide. The app integrates external APIs to fetch accurate weather data and offers an engaging user interface.
 
-## Weather App Window Snapshot
+
 ## Preview 🖼️
 ![Weather App Screenshot](project_image/weather_window.png)
 
@@ -21,6 +21,7 @@ A sleek, user-friendly weather application built with **React.js** to provide re
 - **Axios**
 
 ## How to Run the Project 🚀
+
 ### Prerequisites:
 1. Install [Node.js](https://nodejs.org/) and npm run dev.
 2. Sign up for a weather API key from OpenWeatherMap (or the API you are using).
