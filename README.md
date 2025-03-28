@@ -2,6 +2,11 @@
 
 A sleek, user-friendly weather application built with **React.js** to provide real-time weather updates for locations worldwide. The app integrates external APIs to fetch accurate weather data and offers an engaging user interface.
 
+## Weather App Window Snapshot
+## Preview 🖼️
+![Weather App Screenshot](project_image/weather_window.png)
+
+
 ## Features ✨
 - **Real-Time Weather Data**: Get current weather conditions, temperature, humidity, and more.
 - **Search Functionality**: Search for weather information by city name.
