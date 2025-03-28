@@ -29,4 +29,4 @@ A sleek, user-friendly weather application built with **React.js** to provide re
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-web-app.git
+   git clone https://github.com/1811kushald/Weather-App.git
